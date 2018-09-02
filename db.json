@@ -15,6 +15,18 @@
     {
       "type": 2,
       "text": "Text"
+    },
+    {
+      "type": 2,
+      "text": "Text"
+    },
+    {
+      "type": 1,
+      "text": "Hi guys!"
+    },
+    {
+      "type": 0,
+      "text": "Wow!"
     }
   ]
 }
